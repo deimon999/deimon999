@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deimonmi%20Kyndiah&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Deimonmi%20Kyndiah&fontSize=70&color=0:8871e5,50:b678f4,100:e9a8f2&stroke=58A6FF&strokeWidth=2&fontColor=ffffff&fontAlignY=40&desc=Data%20Science%20Graduate%20Student%20|%20AI%20%26%20ML%20Engineer&descSize=20&descAlignY=60&animation=twinkling" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+Graduate+Student;AI+%26+ML+Engineer;Building+Intelligent+Systems;RAG+%7C+Deep+Learning+%7C+Analytics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Deep+Learning+%7C+RAG+%7C+LangChain;Transforming+Data+into+Insights;AI+%2F+ML+Engineering+Excellence)](https://git.io/typing-svg)
 
 <br>
 
