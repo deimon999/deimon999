@@ -1,16 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Deimonmi%20Kyndiah&fontSize=70&color=0:8871e5,50:b678f4,100:e9a8f2&stroke=58A6FF&strokeWidth=2&fontColor=ffffff&fontAlignY=40&desc=Data%20Science%20Graduate%20Student%20|%20AI%20%26%20ML%20Engineer&descSize=20&descAlignY=60&animation=twinkling" width="100%"/>
+<!-- Animated Video-like Background -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&text=Deimonmi%20Kyndiah&fontSize=70&color=gradient&customColorList=0,2,6,11,20&fontColor=ffffff&animation=fadeIn&rotate=0&fontAlignY=40&desc=Data%20Science%20Graduate%20|%20AI%20%26%20ML%20Engineer&descSize=20&descAlignY=65" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Deep+Learning+%7C+RAG+%7C+LangChain;Transforming+Data+into+Insights;AI+%2F+ML+Engineering+Excellence)](https://git.io/typing-svg)
+<!-- Particle Effect Overlay -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" style="position: absolute; top: 0; opacity: 0.1;" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Deep+Learning+%7C+RAG+%7C+LangChain;Transforming+Data+into+Insights;AI+%2F+ML+Engineering+Excellence;Let's+Build+the+Future+Together+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=deimon999&color=58A6FF&style=for-the-badge&label=Profile+Visitors)
+<!-- Dynamic Badges with Icons -->
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="30"/>
+<br>
+![Profile Views](https://komarev.com/ghpvc/?username=deimon999&color=58A6FF&style=for-the-badge&label=Visitors)
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/user-group-man-man.png" width="30"/>
+<br>
 [![GitHub followers](https://img.shields.io/github/followers/deimon999?label=Followers&style=for-the-badge&color=58A6FF)](https://github.com/deimon999)
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/star--v1.png" width="30"/>
+<br>
+![Stars](https://img.shields.io/github/stars/deimon999?style=for-the-badge&color=58A6FF&label=Stars)
+</td>
+</tr>
+</table>
 
 </div>
 
+<!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">🧠 About Me</h2>
