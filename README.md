@@ -4,6 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+Graduate+Student;AI+%26+ML+Engineer;Building+Intelligent+Systems;RAG+%7C+Deep+Learning+%7C+Analytics)](https://git.io/typing-svg)
 
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=deimon999&color=58A6FF&style=for-the-badge&label=Profile+Visitors)
+[![GitHub followers](https://img.shields.io/github/followers/deimon999?label=Followers&style=for-the-badge&color=58A6FF)](https://github.com/deimon999)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -49,6 +54,34 @@ def deimonmi():
 </table>
 
 <br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">💻 Terminal Activity</h2>
+
+<div align="center">
+
+```bash
+$ whoami
+deimon999
+
+$ cat skills.txt
+AI Engineering | Deep Learning | RAG Systems | Data Analytics
+
+$ git log --oneline -5
+bc7f3a2 Built Nexus AI Study Assistant with LangChain
+5e9d8f1 Deployed Deepfake Detection using EfficientNet
+2a4c6e3 Optimized Flight Fare Prediction models
+a8f1b9d Analyzed 4,922 villages for infrastructure planning
+7c2e5a1 Researching advanced RAG architectures
+
+$ current_status
+✓ Building intelligent systems
+✓ Open to AI/ML opportunities
+✓ Always learning, always building
+```
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -232,11 +265,40 @@ State-Level Planning
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">💭 Dev Quote of the Day</h2>
+<h2 align="center">� Random Tech Humor</h2>
 
 <div align="center">
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=socrates&font=Redressed)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">📊 Recent GitHub Activity</h2>
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+![Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=deimon999&theme=tokyo-night&hide_border=true&area=true&custom_title=Recent%20Activity%20Graph)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">🏙️ GitHub Skyline 3D</h2>
+
+<div align="center">
+
+<a href="https://skyline.github.com/deimon999/2025">
+  <img src="https://github.com/deimon999/deimon999/assets/skyline-2025.png" alt="GitHub Skyline" width="80%" />
+</a>
+
+**[🔗 View My 3D Contribution Skyline](https://skyline.github.com/deimon999/2025)**
+
+<sub>A 3D visualization of my 2025 GitHub contributions - click to explore interactively!</sub>
 
 </div>
 
