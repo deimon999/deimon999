@@ -14,17 +14,17 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="30"/>
+🧠
 <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=deimon999&color=58A6FF&style=for-the-badge&label=Visitors)
 </td>
 <td align="center">
-<img src="https://img.icons8.com/color/48/000000/user-group-man-man.png" width="30"/>
+👥
 <br>
 [![GitHub followers](https://img.shields.io/github/followers/deimon999?label=Followers&style=for-the-badge&color=58A6FF)](https://github.com/deimon999)
 </td>
 <td align="center">
-<img src="https://img.icons8.com/color/48/000000/star--v1.png" width="30"/>
+⭐
 <br>
 ![Stars](https://img.shields.io/github/stars/deimon999?style=for-the-badge&color=58A6FF&label=Stars)
 </td>
