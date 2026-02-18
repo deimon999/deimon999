@@ -250,16 +250,12 @@ State-Level Planning
 <tr>
 <td width="50%" align="center">
 
-**📈 Overall Stats**
-
-<img src="https://github-readme-stats.vercel.app/api?username=deimon999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deimon999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&include_all_commits=true&count_private=true)
 
 </td>
 <td width="50%" align="center">
 
-**🔥 Contribution Streak**
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deimon999&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deimon999&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)
 
 </td>
 </tr>
@@ -267,30 +263,11 @@ State-Level Planning
 
 <br>
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-**💻 Most Used Languages**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deimon999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-
-</td>
-<td width="50%" align="center">
-
-**📊 Contribution Graph**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deimon999&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=0D1117&title_color=58A6FF&area=true&hide_border=true&height=300" />
-
-</td>
-</tr>
-</table>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deimon999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)
 
 <br>
 
-**📌 Profile Summary**
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deimon999&theme=tokyonight" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deimon999&custom_title=Contribution%20Activity&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=0D1117&title_color=58A6FF&area=true&hide_border=true)
 
 </div>
 
