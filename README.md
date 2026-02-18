@@ -242,20 +242,6 @@ State-Level Planning
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">🏆 Achievements & Trophies</h2>
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=deimon999&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-<br><br>
-
-[![Holopin Board](https://holopin.me/deimon999)](https://holopin.io/@deimon999)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h2 align="center">📊 GitHub Analytics Dashboard</h2>
 
 <div align="center">
@@ -277,35 +263,6 @@ State-Level Planning
 <td colspan="2" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deimon999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">⏱️ Coding Activity & Contributions</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-**WakaTime Coding Stats**
-
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=deimon999&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact)](https://wakatime.com/@deimon999)
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**Contribution Activity Graph**
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deimon999&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </td>
 </tr>
