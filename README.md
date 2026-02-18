@@ -288,22 +288,6 @@ State-Level Planning
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">🏙️ GitHub Skyline 3D</h2>
-
-<div align="center">
-
-<a href="https://skyline.github.com/deimon999/2025">
-  <img src="https://github.com/deimon999/deimon999/assets/skyline-2025.png" alt="GitHub Skyline" width="80%" />
-</a>
-
-**[🔗 View My 3D Contribution Skyline](https://skyline.github.com/deimon999/2025)**
-
-<sub>A 3D visualization of my 2025 GitHub contributions - click to explore interactively!</sub>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h2 align="center">🐍 Contribution Snake Game</h2>
 
 <div align="center">
