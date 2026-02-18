@@ -10,26 +10,9 @@
 
 <br>
 
-<!-- Dynamic Badges with Icons -->
-<table>
-<tr>
-<td align="center">
-🧠
-<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=deimon999&color=58A6FF&style=for-the-badge&label=Visitors)
-</td>
-<td align="center">
-👥
-<br>
 [![GitHub followers](https://img.shields.io/github/followers/deimon999?label=Followers&style=for-the-badge&color=58A6FF)](https://github.com/deimon999)
-</td>
-<td align="center">
-⭐
-<br>
 ![Stars](https://img.shields.io/github/stars/deimon999?style=for-the-badge&color=58A6FF&label=Stars)
-</td>
-</tr>
-</table>
 
 </div>
 
