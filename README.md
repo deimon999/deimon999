@@ -10,7 +10,11 @@
 
 ### 🧠 About Me
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 Building intelligent systems at the intersection of **AI, Machine Learning, and Real-World Impact**. Currently pursuing M.Sc. in Data Science, specializing in deep learning architectures, retrieval-augmented generation, and scalable data analytics. Passionate about transforming complex data into actionable insights and deploying production-ready ML solutions.
+
+<br clear="right"/>
 
 ---
 
@@ -57,6 +61,16 @@ Developed and deployed an end-to-end ML web application using **Random Forest** 
 
 </div>
 
+<br>
+
+<div align="center">
+
+### 💻 Skill Level Visualization
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,mongodb,mysql,flask,git,vscode,docker&theme=dark&perline=5" />
+
+</div>
+
 ---
 
 ### 🏆 GitHub Achievements
@@ -88,6 +102,26 @@ Developed and deployed an end-to-end ML web application using **Random Forest** 
 <div align="center">
 
 [![Deimonmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deimon999&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### 🐍 Contribution Snake Game
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/deimon999/deimon999/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+### 🎮 3D Contribution Calendar
+
+<div align="center">
+
+![3D Contribution](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
