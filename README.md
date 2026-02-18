@@ -303,6 +303,79 @@ State-Level Planning
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h2 align="center">🎮 Game Zone - Code & Play</h2>
+
+<div align="center">
+
+<!-- Pac-Man Animation -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🕹️ Retro Gaming
+
+<img src="https://media.giphy.com/media/W5BNeG7r5wJfq0P4V1/giphy.gif" width="150"/>
+
+**Loading Skills...**
+```
+████████████████████ 100%
+```
+*AI Engineering Mastery*
+
+</td>
+<td align="center" width="33%">
+
+### 🎯 High Score
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150"/>
+
+**Current Level**
+```
+Level: Senior Student
+XP: 9999+
+Streak: Building Daily
+```
+
+</td>
+<td align="center" width="33%">
+
+### 🏆 Achievements
+
+<img src="https://media.giphy.com/media/l3vR3EssQ5Ab2z9Ic/giphy.gif" width="150"/>
+
+**Unlocked**
+```
+✅ AI Wizard
+✅ Data Master
+✅ Code Ninja
+```
+
+</td>
+</tr>
+</table>
+
+<!-- Animated Game Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=GAME+OVER+%3F+NO%2C+JUST+GETTING+STARTED!;INSERT+COIN+TO+CONTINUE+LEARNING;PLAYER+1+%3A+BUILDING+AI+SYSTEMS;LEVEL+UP+YOUR+SKILLS+EVERYDAY!" alt="Typing SVG" />
+</p>
+
+<!-- Space Invaders Style -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</p>
+
+<br>
+
+**🎲 Fun Fact:** I debug code faster than I beat video game bosses! 🐛🎮
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h2 align="center">📊 GitHub Contribution Metrics</h2>
 
 <div align="center">
