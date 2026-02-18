@@ -173,11 +173,17 @@ Goal: Real-World Impact
 
 <div align="center">
 
-[![Nexus AI](https://github-readme-stats.vercel.app/api/pin/?username=deimon999&repo=nexus-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/deimon999/nexus-ai)
-[![Deepfake Detection](https://github-readme-stats.vercel.app/api/pin/?username=deimon999&repo=deepfake-detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/deimon999/deepfake-detection)
+### 🤖 [Nexus AI](https://github.com/deimon999/nexus-ai)
+Advanced RAG system using LangChain & LLaMA for intelligent document Q&A  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
 
-[![Flight Fare Prediction](https://github-readme-stats.vercel.app/api/pin/?username=deimon999&repo=flight-fare-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/deimon999/flight-fare-prediction)
-[![Profile README](https://github-readme-stats.vercel.app/api/pin/?username=deimon999&repo=deimon999&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/deimon999/deimon999)
+### 🎭 [Deepfake Detection](https://github.com/deimon999/deepfake-detection)
+CNN-based deepfake detection system using EfficientNet & ResNet architectures  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### ✈️ [Flight Fare Prediction](https://github.com/deimon999/flight-fare-prediction)
+ML model for flight price prediction using XGBoost & Random Forest  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
 
 </div>
 
