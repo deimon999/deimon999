@@ -173,34 +173,11 @@ Goal: Real-World Impact
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
 [![Nexus AI](https://github-readme-stats.vercel.app/api/pin/?username=deimon999&repo=nexus-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/deimon999/nexus-ai)
-
-</td>
-<td width="50%">
-
 [![Deepfake Detection](https://github-readme-stats.vercel.app/api/pin/?username=deimon999&repo=deepfake-detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/deimon999/deepfake-detection)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 [![Flight Fare Prediction](https://github-readme-stats.vercel.app/api/pin/?username=deimon999&repo=flight-fare-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/deimon999/flight-fare-prediction)
-
-</td>
-<td width="50%">
-
 [![Profile README](https://github-readme-stats.vercel.app/api/pin/?username=deimon999&repo=deimon999&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/deimon999/deimon999)
-
-</td>
-</tr>
-</table>
-
-<sub>📌 Pinned repositories showcase my best work in AI/ML engineering</sub>
 
 </div>
 
