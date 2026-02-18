@@ -161,6 +161,45 @@ Goal: Real-World Impact
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">⭐ Popular Repositories</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+[![Nexus AI](https://github-readme-stats.vercel.app/api/pin/?username=deimon999&repo=nexus-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/deimon999/nexus-ai)
+
+</td>
+<td width="50%">
+
+[![Deepfake Detection](https://github-readme-stats.vercel.app/api/pin/?username=deimon999&repo=deepfake-detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/deimon999/deepfake-detection)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![Flight Fare Prediction](https://github-readme-stats.vercel.app/api/pin/?username=deimon999&repo=flight-fare-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/deimon999/flight-fare-prediction)
+
+</td>
+<td width="50%">
+
+[![Profile README](https://github-readme-stats.vercel.app/api/pin/?username=deimon999&repo=deimon999&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/deimon999/deimon999)
+
+</td>
+</tr>
+</table>
+
+<sub>📌 Pinned repositories showcase my best work in AI/ML engineering</sub>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h2 align="center">💼 Impact in Action</h2>
 
 <div align="center">
@@ -275,14 +314,112 @@ State-Level Planning
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">📊 Recent GitHub Activity</h2>
+<h2 align="center">📊 GitHub Contribution Metrics</h2>
 
 <div align="center">
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/commit-git.png" width="60"/>
 
-![Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=deimon999&theme=tokyo-night&hide_border=true&area=true&custom_title=Recent%20Activity%20Graph)
+### 🔥 Total Commits
+
+**This Year**
+
+![Commits](https://img.shields.io/badge/2026-Active-58A6FF?style=for-the-badge&label=Commits)
+
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/>
+
+### 💻 Lines of Code
+
+**Across Repos**
+
+![Lines](https://img.shields.io/badge/Lines%20of%20Code-50K%2B-58A6FF?style=for-the-badge)
+
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/repository.png" width="60"/>
+
+### 📦 Repositories
+
+**Public Projects**
+
+![Repos](https://img.shields.io/github/repos/deimon999?style=for-the-badge&color=58A6FF)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+**📈 Contribution Statistics**
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deimon999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&include_all_commits=true&count_private=true&custom_title=GitHub%20Analytics)
+
+</td>
+<td width="50%" align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deimon999&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+**💬 Most Used Languages**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deimon999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&custom_title=Language%20Distribution)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<div align="center">
+
+**Activity Heatmap**
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deimon999&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF)
+
+<br><br>
+
+**Commit Timeline**
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+![Commit Stats](https://github-readme-stats.vercel.app/api?username=deimon999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&hide=issues,contribs&custom_title=Recent%20Activity)
+
+</td>
+<td width="50%" align="center">
+
+**Recent Contributions**
+
+```yaml
+This Week:
+  Commits: Active
+  Pull Requests: In Progress
+  Code Reviews: Ongoing
+  
+Focus Areas:
+  - AI/ML Projects
+  - Deep Learning
+  - Data Analytics
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
