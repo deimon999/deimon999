@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Deimonmi Kyndiah 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deimonmi%20Kyndiah&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-### Data Science Graduate Student | AI & ML Engineer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+Graduate+Student;AI+%26+ML+Engineer;Building+Intelligent+Systems;RAG+%7C+Deep+Learning+%7C+Analytics)](https://git.io/typing-svg)
 
 </div>
 
@@ -37,14 +37,35 @@ Developed and deployed an end-to-end ML web application using **Random Forest** 
 
 ### 🛠️ Tech Stack
 
-**Languages & Analytics**  
-`Python` `SQL` `R` `Java` `Pandas` `NumPy` `Excel` `Power BI`
+<div align="center">
 
-**Machine Learning & AI**  
-`Scikit-learn` `TensorFlow` `Random Forest` `XGBoost` `CNN` `EfficientNet` `LangChain` `RAG` `LLaMA` `Ollama`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Development & Databases**  
-`Flask` `Git` `MongoDB` `MySQL` `Pinecone` `VS Code` `Jupyter Notebook`
+**Specialized Skills**  
+`LangChain` `RAG` `LLaMA` `Ollama` `EfficientNet` `CNN` `XGBoost` `Pinecone`
+
+</div>
+
+---
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=deimon999&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)
+
+</div>
 
 ---
 
@@ -57,6 +78,16 @@ Developed and deployed an end-to-end ML web application using **Random Forest** 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deimon999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deimon999&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)
+
+</div>
+
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+[![Deimonmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deimon999&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -78,4 +109,9 @@ Developed and deployed an end-to-end ML web application using **Random Forest** 
   
 *Open to AI/ML roles and research collaborations*
 
+![Profile Views](https://komarev.com/ghpvc/?username=deimon999&color=58A6FF&style=flat-square&label=Profile+Views)
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
