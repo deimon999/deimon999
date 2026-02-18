@@ -236,7 +236,7 @@ State-Level Planning
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 💭 Dev Quote of the Day
+<h2 align="center">💭 Dev Quote of the Day</h2>
 
 <div align="center">
 
@@ -246,61 +246,80 @@ State-Level Planning
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🏆 GitHub Achievements
+<h2 align="center">🏆 Achievements & Trophies</h2>
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=deimon999&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=deimon999&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+<br><br>
+
+[![Holopin Board](https://holopin.me/deimon999)](https://holopin.io/@deimon999)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🏅 Achievement Badges
+<h2 align="center">📊 GitHub Analytics Dashboard</h2>
 
 <div align="center">
 
-[![Holopin](https://holopin.me/deimon999)](https://holopin.io/@deimon999)
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=deimon999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deimon999&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deimon999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📊 GitHub Stats
+<h2 align="center">⏱️ Coding Activity & Contributions</h2>
 
 <div align="center">
-  
-![Deimonmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deimon999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deimon999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+<table>
+<tr>
+<td align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deimon999&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)
+**WakaTime Coding Stats**
+
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=deimon999&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact)](https://wakatime.com/@deimon999)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Contribution Activity Graph**
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deimon999&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### ⏱️ Coding Activity
-
-<div align="center">
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=deimon999&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact)](https://wakatime.com/@deimon999)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-[![Deimonmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deimon999&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 🐍 Contribution Snake Game
+<h2 align="center">🐍 Contribution Snake Game</h2>
 
 <div align="center">
 
@@ -310,7 +329,7 @@ State-Level Planning
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🎮 3D Contribution Calendar
+<h2 align="center">🎮 3D Contribution Calendar</h2>
 
 <div align="center">
 
@@ -320,7 +339,7 @@ State-Level Planning
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🤝 Connect With Me
+<h2 align="center">🤝 Connect With Me</h2>
 
 <div align="center">
 
