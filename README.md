@@ -12,34 +12,193 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🧠 About Me
+<h2 align="center">🧠 About Me</h2>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-Building intelligent systems at the intersection of **AI, Machine Learning, and Real-World Impact**. Currently pursuing M.Sc. in Data Science, specializing in deep learning architectures, retrieval-augmented generation, and scalable data analytics. Passionate about transforming complex data into actionable insights and deploying production-ready ML solutions.
+#### 🎯 Current Focus
+
+```yaml
+Role: Data Science Graduate Student
+Specialization: AI & ML Engineering
+Institution: Kristu Jayanti College
+Status: Building Intelligent Systems
+```
+
+#### 🔬 Research Interests
+- 🤖 Deep Learning Architectures
+- 🧩 Retrieval-Augmented Generation
+- 📊 Scalable Data Analytics
+- 🚀 Production ML Deployment
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+
+#### ⚡ Quick Facts
+
+```python
+def deimonmi():
+    passions = ["AI", "ML", "Real-World Impact"]
+    current = "M.Sc. Data Science"
+    focus = ["CNN", "RAG", "LangChain", "LLaMA"]
+    return "Transforming data into insights 📈"
+```
+
+</td>
+</tr>
+</table>
 
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-**[Nexus – AI Study Assistant](https://github.com/deimon999)**  
-Built an intelligent RAG-powered study companion using **LangChain** and **LLaMA**. Integrated productivity features including smart notes, task management, and Pomodoro timers for enhanced learning efficiency.
+<div align="center">
 
-**[Deepfake Detection System](https://github.com/deimon999)**  
-Engineered a deep learning classifier using **CNN** and **EfficientNet** to detect AI-generated media with high precision. Implemented MTCNN-based face extraction pipelines for streamlined preprocessing.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[Flight Fare Prediction](https://github.com/deimon999)**  
-Developed and deployed an end-to-end ML web application using **Random Forest** and **XGBoost** to predict airline ticket prices. Achieved low RMSE through feature engineering and hyperparameter optimization.
+### 🧠 [Nexus – AI Study Assistant](https://github.com/deimon999)
 
----
+<img src="https://img.shields.io/badge/AI-LangChain-00ADD8?style=flat-square&logo=chainlink&logoColor=white"/> <img src="https://img.shields.io/badge/LLM-LLaMA-FF6F00?style=flat-square&logo=meta&logoColor=white"/> <img src="https://img.shields.io/badge/Framework-Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 
-### 💼 Impact in Action
+```diff
++ RAG-Powered Study Companion
++ LangChain & LLaMA Integration
++ Productivity Suite (Notes, Tasks, Pomodoro)
++ Enhanced Learning Efficiency
+```
 
-**Data Analyst Intern** @ Meghalaya Technology Parks Society  
-📊 Analyzed **4,922 unconnected villages** through Power BI dashboards, driving state-level infrastructure planning  
-🛣️ Identified **258 roadless villages** as development priorities by optimizing data pipelines and merging government datasets
+**Tech Stack:** `LangChain` `LLaMA` `RAG` `Flask` `Pinecone`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎭 [Deepfake Detection System](https://github.com/deimon999)
+
+<img src="https://img.shields.io/badge/DL-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/CNN-EfficientNet-4285F4?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Vision-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+
+```diff
++ Deep Learning Classifier
++ CNN & EfficientNet Architecture
++ MTCNN Face Extraction Pipeline
++ High Precision Detection
+```
+
+**Tech Stack:** `TensorFlow` `CNN` `EfficientNet` `OpenCV` `MTCNN`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✈️ [Flight Fare Prediction](https://github.com/deimon999)
+
+<img src="https://img.shields.io/badge/ML-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Deploy-Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Model-XGBoost-1E73BE?style=flat-square&logo=xgboost&logoColor=white"/>
+
+```diff
++ End-to-End ML Web Application
++ Random Forest & XGBoost Models
++ Low RMSE Achievement
++ Feature Engineering & Tuning
+```
+
+**Tech Stack:** `Scikit-learn` `XGBoost` `Random Forest` `Flask`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 More Coming Soon...
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+```yaml
+Status: Building Amazing Things
+Focus: AI/ML Innovation
+Goal: Real-World Impact
+```
+
+**Star** ⭐ my repos if you find them interesting!
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<h2 align="center">💼 Impact in Action</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/000000/analytics.png" width="80"/>
+
+### 📊 Data Analysis
+
+**4,922**  
+Villages Analyzed
+
+<sub>Power BI Dashboards</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/000000/road.png" width="80"/>
+
+### 🛣️ Impact Delivered
+
+**258**  
+Roadless Villages
+
+<sub>Identified for Development</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/000000/organization.png" width="80"/>
+
+### 🏢 Organization
+
+**MTPS**  
+State-Level Planning
+
+<sub>Infrastructure Insights</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<details>
+<summary>🔍 <b>View Impact Details</b></summary>
+<br>
+
+**Position:** Data Analyst Intern (Hybrid)  
+**Organization:** Meghalaya Technology Parks Society  
+**Duration:** Jun 2025 – Jul 2025
+
+**Key Achievements:**
+- ✅ Architected Power BI dashboards analyzing 4,922 unconnected villages
+- ✅ Optimized data pipelines using Excel and Power Query
+- ✅ Identified 258 roadless villages as development priorities
+- ✅ Provided actionable insights for state infrastructure planning
+- ✅ Cleaned and merged complex government datasets
+
+**Technologies Used:** `Power BI` `Excel` `Power Query` `Data Pipelines` `Government Data`
+
+</details>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
