@@ -4,9 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+Graduate+Student;AI+%26+ML+Engineer;Building+Intelligent+Systems;RAG+%7C+Deep+Learning+%7C+Analytics)](https://git.io/typing-svg)
 
+### 🎵 Vibing to
+
+[![Spotify](https://novatorem-kohl-ten.vercel.app/api/spotify)](https://open.spotify.com/user/31xxki75krzap4jb66r6objqsvki)
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🧠 About Me
 
@@ -16,7 +20,7 @@ Building intelligent systems at the intersection of **AI, Machine Learning, and 
 
 <br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 Featured Projects
 
@@ -37,7 +41,7 @@ Developed and deployed an end-to-end ML web application using **Random Forest** 
 📊 Analyzed **4,922 unconnected villages** through Power BI dashboards, driving state-level infrastructure planning  
 🛣️ Identified **258 roadless villages** as development priorities by optimizing data pipelines and merging government datasets
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠️ Tech Stack
 
@@ -71,7 +75,17 @@ Developed and deployed an end-to-end ML web application using **Random Forest** 
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 💭 Dev Quote of the Day
+
+<div align="center">
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=socrates&font=Redressed)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🏆 GitHub Achievements
 
@@ -81,7 +95,17 @@ Developed and deployed an end-to-end ML web application using **Random Forest** 
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🏅 Achievement Badges
+
+<div align="center">
+
+[![Holopin](https://holopin.me/deimon999)](https://holopin.io/@deimon999)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📊 GitHub Stats
 
@@ -95,7 +119,17 @@ Developed and deployed an end-to-end ML web application using **Random Forest** 
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### ⏱️ Coding Activity
+
+<div align="center">
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=deimon999&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact)](https://wakatime.com/@deimon999)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📈 Contribution Activity
 
@@ -105,7 +139,7 @@ Developed and deployed an end-to-end ML web application using **Random Forest** 
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🐍 Contribution Snake Game
 
@@ -115,7 +149,7 @@ Developed and deployed an end-to-end ML web application using **Random Forest** 
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🎮 3D Contribution Calendar
 
@@ -125,7 +159,7 @@ Developed and deployed an end-to-end ML web application using **Random Forest** 
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🤝 Connect With Me
 
@@ -137,7 +171,7 @@ Developed and deployed an end-to-end ML web application using **Random Forest** 
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   
