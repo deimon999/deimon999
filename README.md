@@ -4,20 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+Graduate+Student;AI+%26+ML+Engineer;Building+Intelligent+Systems;RAG+%7C+Deep+Learning+%7C+Analytics)](https://git.io/typing-svg)
 
-<br><br>
-
-<table>
-<tr>
-<td align="center" width="100%">
-
-**🎵 Currently Vibing To**
-
-[![Spotify](https://novatorem-kohl-ten.vercel.app/api/spotify)](https://open.spotify.com/user/31xxki75krzap4jb66r6objqsvki)
-
-</td>
-</tr>
-</table>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
