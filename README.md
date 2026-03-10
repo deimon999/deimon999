@@ -47,6 +47,49 @@
 <br/>
 
 <div align="center">
+  <h2> 🚀 Featured Projects </h2>
+  <br/>
+  <table align="center" style="border: none; border-collapse: collapse;">
+    <tr style="border: none; padding: 10px;">
+      <td width="50%" align="center" style="border: none; padding: 15px;">
+        <h3> 🧠 Nexus: AI Study Assistant </h3>
+        <p> A Retrieval-Augmented Generation (RAG) platform with LLaMA & LangChain. </p>
+        <a href="https://github.com/deimon999">
+          <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </td>
+      <td width="50%" align="center" style="border: none; padding: 15px;">
+        <h3> 🕵️ Deepfake Detection Pipeline </h3>
+        <p> High-accuracy CNN & EfficientNet models for classifying generated media. </p>
+        <a href="https://github.com/deimon999">
+          <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </td>
+    </tr>
+    <tr style="border: none; padding: 10px;">
+      <td width="50%" align="center" style="border: none; padding: 15px;">
+        <br/>
+        <h3> ✈️ Flight Fare Predictor </h3>
+        <p> End-to-end XGBoost regression pipeline deployed via Flask REST API. </p>
+        <a href="https://github.com/deimon999">
+          <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </td>
+      <td width="50%" align="center" style="border: none; padding: 15px;">
+        <br/>
+        <h3> 📊 Infrastructure Dashboard </h3>
+        <p> Complex spatial pattern discovery across 4.9k infrastructure endpoints. </p>
+        <a href="https://github.com/deimon999">
+          <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
   <h2> 📈 GitHub Analytics </h2>
   <br/>
   <a href="https://github.com/deimon999">
