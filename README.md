@@ -59,6 +59,13 @@
   <a href="https://github.com/deimon999">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=deimon999&theme=outrun&hide_border=true" alt="GitHub Streak" width="97%" />
   </a>
+  <br/><br/>
+  <!-- Contribution Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deimon999/deimon999/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deimon999/deimon999/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/deimon999/deimon999/output/github-snake.svg" width="100%">
+  </picture>
 </div>
 
 <br/>
