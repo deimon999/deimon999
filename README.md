@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Deimonmi!&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI+Enthusiast;Machine+Learning+Engineer;Full-Stack+Web+Developer;Building+Intelligent+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Engineer;AI+Enthusiast;Building+Intelligent+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,12 +19,12 @@
     <tr style="border: none;">
       <td width="60%" style="border: none;">
         <h2> 🧑‍💻 About Me </h2>
-        I am a <b>Data Science Master's student</b> and passionate <b>Software Engineer</b> with a strong track record 
-        of merging complex analytical modeling with robust backend engineering.
+        I am a <b>Data Science Master's student</b> and passionate <b>Data Scientist</b> with a strong track record 
+        of extracting insights from large-scale datasets and deploying predictive models.
         <br/><br/>
         🔭 Working on <b>Retrieval-Augmented Generation (RAG)</b> & <b>Deepfake Detection Pipelines</b> <br/>
-        🌱 Deepening knowledge in <b>Advanced Deep Learning (CNNs, NLP)</b> & <b>Cloud Engineering (Azure)</b> <br/>
-        🤝 Open to collaborating on <b>Open Source AI projects</b> & <b>Full-Stack Web Applications</b> <br/>
+        🌱 Deepening knowledge in <b>Advanced Deep Learning (CNNs, NLP)</b> & <b>Statistical Modeling</b> <br/>
+        🤝 Open to collaborating on <b>Open Source AI projects</b> & <b>Data Engineering Pipelines</b> <br/>
         📫 Reach out to me: <b><a href="mailto:kyndiahdeimon753@gmail.com">kyndiahdeimon753@gmail.com</a></b>
       </td>
       <td width="40%" align="center" style="border: none;">
@@ -40,7 +40,7 @@
   <h2> 🛠️ Tech Stack </h2>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,r,js,html,css,flask,mysql,mongodb,git,vscode,azure,linux,github&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,r,sklearn,tensorflow,mysql,mongodb,git,vscode,azure,linux,github&theme=dark" alt="My Skills" />
   </a>
 </div>
 
